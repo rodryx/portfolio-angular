@@ -1,0 +1,30 @@
+{
+    "nombre":"Rodrigo",
+    "apellido":"Garay",
+    "edad":37,
+    "titulo":"Full stack Developer Jr",
+    "ubicacion": "Cordoba (Argentina)",
+    "link": "informacion de contacto",
+    "imagenBanner":"assets/imagenes/banner-ok-argentina-programa.jpg" , 
+    "logoFacebook":"assets/imagenes/icons8-facebook-rodeado-de-círculo-80.png",
+    "logoInstagram":"assets/imagenes/icons8-instagram-96.png",
+    "logoTwitter":"assets/imagenes/icons8-twitter-96.png",
+    "login": "assets/imagenes/login.png",
+    "antecedentesLaborales":{
+        "expLaboral":"Experiencia Laboral",
+        "nombreEmpresa":"NOMBRE DE LA EMPRESA",
+        "fechaIngSal":"04/08/2011 - actualidad ",
+        "puestoOcupado":"Puesto Ocupado"
+    },
+    
+ "educacion": {
+    
+    "nombreEscPri":"Julio Argentino Roca",
+    "url":"#",
+    "nombreEscSec":"IPEM 157 pte Sarmiento"
+
+}
+
+   
+
+}
